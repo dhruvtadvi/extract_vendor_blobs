@@ -30,7 +30,7 @@ jobs:
             cd lineage-device-tree
             
             bash extract-files.sh ../../../../device/tecno/TECNO-KE6
-            cd ../../../vendor/tecno/TECNO-KE6
+            cd ../../../vendor/tecno/KE6
             rm -rf .git
             git init
             git add .
