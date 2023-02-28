@@ -36,5 +36,5 @@ jobs:
             git add .
             git commit -m "jai shree ram"
             git branch -M main
-            git remote add origin https://dhruvtadvi0x7:${token}@github.com/dhruvtadvi0x7/vendor_tecno_ke6.git
+            git remote add origin https://dhruvtadvi:${token}@github.com/dhruvtadvi/android_vendor_tecno_ke6.git
             git push -u origin main
